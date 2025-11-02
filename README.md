@@ -125,13 +125,19 @@ Fonction main()
 
 
 ###   Division sécurisée :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/913bb946-8362-4080-ab0a-bc8bc3eb2ae4" />
 ###  Gestion d’un stock de produits : 
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5b9f7d22-0d3d-4718-9e00-22072a549917" />
 ###  Lecture d’un fichier avec gestion d’erreurs :
-
+##### le fichier existant :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5795f466-9553-4925-8841-0eb1509b3f9a" />
+##### le fichier introuvable :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/562c775c-9031-4ab5-9525-63484d88f6cc" />
 ### Simulation bancaire avec plusieurs exceptions :
-
+##### montant invalid :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/6be6ab83-a57e-45bf-bd75-155ddfa96450" />
+##### sold insuffisant :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/d92d24d2-e8a4-4826-8418-9879f2bc3c3f" />
 ## 💡 Concepts Practiced
 
 - Exceptions personnalisées (std::exception)
